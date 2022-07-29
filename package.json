@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Billian177/Phase-2-React-Project/issues"
   },
-  "homepage": "https://github.com/Billian177/Phase-2-React-Project#readme"
+  "homepage": "https://github.com/Billian177/Phase-2-React-Project#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
 }
